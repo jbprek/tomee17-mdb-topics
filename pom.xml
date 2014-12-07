@@ -13,6 +13,9 @@
         <module>simple-mdb</module>
         <module>simple-mdb-and-cdi</module>
         <module>simple-mdb-with-descriptor</module>
+        <module>mdb-exceptions-show</module>
+
+
 
 
     </modules>
